@@ -375,7 +375,7 @@ let taskEditorOptions = {
                 width = width;
             }
 
-            actualElement.style.width = width + "px";
+            actualElement.style.width = "auto";
         });
     },
 
